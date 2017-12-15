@@ -73,6 +73,9 @@ It should look smth like:
 
 Step 4: open Alexnet-warmup-2 notebook and go through the cells
 
+use this command in additional terminal to see what's happening on GPU
+`nvidia-smi -l`
+
 
 ### Fine-tuning demo
 
