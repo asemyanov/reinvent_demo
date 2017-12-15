@@ -1,5 +1,9 @@
 # reinvent_demo
 
+This demo is about how to build custom image classifier using Gluon and MXnet
+
+
+
 ### Alexnet warmup
 
 Step 1: Use AWS EC2 instances, 
