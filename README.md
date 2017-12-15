@@ -27,9 +27,6 @@ Step 2: Connect to your instance and clone this repository
 
 `git clone https://github.com/asemyanov/reinvent_demo.git`
 
-unpack img2 folder
-
-`tar xvzf img2.tar.gz ./`
 
 
 
